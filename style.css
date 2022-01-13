@@ -1,15 +1,16 @@
 body {
-  background-color: #BCB8B1;
+  background-color: #D9D2CB;
 }
 h1{
   color: #F4F3EE;
   font-size: 400%;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   letter-spcaing: 5px;
   padding: 50px;
 }
 u1{
   list-style-type: none;
-  background-color: #8A817C;
+  background-color: #B2A496;
   width: 100%; 
   overflow: hidden;
   position: fixed;
@@ -24,10 +25,10 @@ li{
 li a{
   display: block;
   color: #F4F3EE;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   text-decoration: none;
   padding: 25px 50px;
 }
 li a:hover {
-  background-color: #E0AFA0;
-  color: #463F3A;
+  color: #886E58;
 }
