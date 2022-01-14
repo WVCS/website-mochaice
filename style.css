@@ -7,6 +7,7 @@ h1{
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   letter-spcaing: 5px;
   padding: 50px;
+  line-height: 100px;
 }
 u1{
   list-style-type: none;
